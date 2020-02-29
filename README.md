@@ -1,8 +1,14 @@
 # Archive-HugginsScottAuctions.ps1
 
+## Description
+
 This script will save the auction information including Price, Title, End Date and URL, including any images. The auction description isn't in a consistent place, so saving that is problematic.
 
 The AuctionURLs file should contain one URL per line.
+
+## Why do this?
+
+The main use is to have a reference price when you're buying these cards later. As of late, this can be useful to get "before" pictures of cards, since they may be altered later.
 
 Usage:
 
